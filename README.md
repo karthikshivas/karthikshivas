@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthikshivas
-- 👀 I’m interested in Erlang and Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Erlang and Elixir
+- 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on any project that is interesting
 - 📫 Reach me at karthikshivas@gmail.com 
 

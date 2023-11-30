@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthikshivas
-- 👀 I’m interested in Erlang and Elixir
-- 🌱 I’m currently learning Elixir
+- 👀 I’m experienced in Erlang for a decade and mastered learning Elixir, Phoenix and LiveView
+- 🌱 I’m currently exploring new opportunities in Elixir
 - 📫 Reach me at karthikshivas@gmail.com 
 
 <!---

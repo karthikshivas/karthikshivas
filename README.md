@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @karthikshivas
-- 👀 I’m experienced in Erlang for a decade and mastered learning Elixir, Phoenix and LiveView
-- 🌱 I’m currently exploring new opportunities in Elixir
-- 📫 Reach me at karthikshivas@gmail.com 
+- 👀 I’m a Full Stack Developer with 10 years of experience in various tech stacks
+- like Erlang, Elixir, Python, Django for Backend
+- React JS, Redux, Angular JS, jQuery, Javascript (ES6+), Bootstrap Framework and Tailwind CSS for Front End
+- Knows RestFul API design
+- Databases: NoSQL - Riak and Redis, SQL Database - PostgreSQL
+- 📫 Reach me at karthikshivas@gmail.com
+- Check My exercism page which I used to solve problems using different languages
+  https://exercism.org/profiles/karthikshivas
+  
 
 <!---
 karthikshivas/karthikshivas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

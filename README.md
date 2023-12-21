@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karthikshivas
-- 👀 I’m a Full Stack Developer with 10 years of experience in various tech stacks
+- 👋 Hi, I’m Karthik Sivasubramanian
+- 👀 A Full Stack Developer with 10 years of experience in various tech stacks
 - For Backend, Experienced in Python, Django Framework and Erlang,
 - Familiar with Elixir and Phoenix Framework.
 - For Front End, Experienced in React JS, Redux, jQuery, Javascript (ES6+), Bootstrap Framework and Tailwind CSS.

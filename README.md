@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @karthikshivas
 - 👀 I’m a Full Stack Developer with 10 years of experience in various tech stacks
-- like Erlang, Elixir, Python, Django for Backend
-- React JS, Redux, jQuery, Javascript (ES6+), Bootstrap Framework and Tailwind CSS for Front End
+- For Backend, Experienced in Python, Django Framework and Erlang,
+- Familiar with Elixir and Phoenix Framework.
+- For Front End, Experienced in React JS, Redux, jQuery, Javascript (ES6+), Bootstrap Framework and Tailwind CSS.
 - Knows RestFul API design
-- Databases: NoSQL - Riak and Redis, SQL Database - PostgreSQL
+- Databases: SQL Database - PostgreSQL, NoSQL - MongoDB, Redis and Riak
 - 📫 Reach me at karthikshivas@gmail.com
-- Check My exercism page which I used to solve problems using different languages
+- Check my HackerRank page here - https://www.hackerrank.com/profile/karthikshivas
+- Check My exercism page here - 
   https://exercism.org/profiles/karthikshivas
   
 

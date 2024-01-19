@@ -2,7 +2,7 @@
 - 👀 A Full Stack Developer with 10 years of experience in various tech stacks
 - For Backend, Experienced in Python, Django Framework and Erlang,
 - Familiar with Elixir and Phoenix Framework.
-- For Front End, Experienced in React JS, Redux, jQuery, Javascript (ES6+), Bootstrap Framework and Tailwind CSS.
+- For Front End, Experienced in React JS, TypeScript, Redux, jQuery, Javascript (ES6+), Bootstrap Framework, Chakra UI and Tailwind CSS.
 - Knows RestFul API design
 - Databases: SQL Database - PostgreSQL, NoSQL - MongoDB, Redis and Riak
 - 📫 Reach me at karthikshivas@gmail.com

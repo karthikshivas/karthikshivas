@@ -4,7 +4,7 @@
 - Familiar with Elixir and Phoenix Framework.
 - For Front End, Experienced in React JS, TypeScript, Redux, jQuery, Javascript (ES6+), Bootstrap Framework, Chakra UI and Tailwind CSS.
 - Knows RestFul API design
-- Databases: SQL Database - PostgreSQL, NoSQL - MongoDB, Redis and Riak
+- Databases: SQL Database - PostgreSQL, MySQL. NoSQL Database - MongoDB, Redis and Riak
 - 📫 Reach me at karthikshivas@gmail.com
 - Check my HackerRank page here - https://www.hackerrank.com/profile/karthikshivas
 - Check My exercism page here - 

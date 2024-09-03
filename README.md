@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthik Sivasubramanian
-- 👀 A Full Stack Developer with 10 years of experience in various tech stacks
-- For Backend, Experienced in Python, Django Framework and Erlang,
-- Familiar with Elixir and Phoenix Framework.
+- 👀 Senior Software Developer with 10 years of experience in various tech stacks
+- For Backend, Experienced in Erlang.
+- Familiar with Elixir and Phoenix Framework and Python and Django Framework. Done small projects using these languages for experience.
 - For Front End, Experienced in React JS, TypeScript, Redux, jQuery, Javascript (ES6+), Bootstrap Framework, Chakra UI and Tailwind CSS.
 - Knows RestFul API design
 - Databases: SQL Database - PostgreSQL, MySQL. NoSQL Database - MongoDB, Redis and Riak
